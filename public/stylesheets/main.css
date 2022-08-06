@@ -1,0 +1,25 @@
+.thumbnail img {
+	width: 100%;	
+}
+
+.thumbnail {
+	padding: 0px;
+}
+
+.thumbnail .caption-full {
+	padding: 9px;
+}
+
+.delete-form{
+	display: inline; 
+}
+
+body {
+	background-color: lightgray;
+	font-family:'Times New Roman', serif;
+}
+
+.jumbotron {
+	text-align: center;
+	background-image: url("https://images.unsplash.com/photo-1612466147934-4a7a64a3abe2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1733&q=80")
+}
